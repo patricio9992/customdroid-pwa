@@ -1,0 +1,22 @@
+CUSTOM DROID - ARQUIVOS PWA
+
+Arquivos:
+- icon-192.png
+- icon-512.png
+- icon-512-maskable.png
+- manifest.webmanifest
+
+Hospede TODOS os arquivos na mesma pasta pública.
+
+Depois, no XML do Blogger, use:
+<link rel="manifest" href="URL_PUBLICA/manifest.webmanifest"/>
+
+Exemplo:
+<link rel="manifest" href="https://SEU-USUARIO.github.io/customdroid-pwa/manifest.webmanifest"/>
+
+ATENÇÃO:
+O manifesto está pronto para abrir:
+https://www.customdroidbr.com/
+
+A URL do manifesto só poderá ser finalizada depois que você souber o endereço público
+onde estes arquivos foram hospedados.
