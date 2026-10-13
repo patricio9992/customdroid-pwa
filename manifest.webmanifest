@@ -1,12 +1,15 @@
+
 {
-  "name": "Custom DROID",
-  "short_name": "Custom DROID",
-  "description": "Custom DROID - aplicativos, jogos, dicas e notícias para Android.",
-  "start_url": "https://www.customdroidbr.com/?source=pwa",
-  "scope": "https://www.customdroidbr.com/",
+  "name": "MODZUNO - Apps e Jogos Android MOD",
+  "short_name": "MODZUNO",
+  "description": "MODZUNO - Portal de aplicativos e jogos para Android.",
+  "lang": "pt-BR",
+  "id": "https://www.modzuno.com/",
+  "start_url": "https://www.modzuno.com/",
+  "scope": "https://www.modzuno.com/",
   "display": "standalone",
-  "background_color": "#111820",
-  "theme_color": "#111820",
+  "background_color": "#101010",
+  "theme_color": "#10B981",
   "icons": [
     {
       "src": "icon-192.png",
