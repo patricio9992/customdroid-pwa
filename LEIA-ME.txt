@@ -1,4 +1,9 @@
-CUSTOM DROID - ARQUIVOS PWA
+MODZUNO - ARQUIVOS PWA
+
+Arquivos oficiais do aplicativo MODZUNO.
+
+Site oficial:
+https://www.modzuno.com/
 
 Arquivos:
 - icon-192.png
@@ -6,17 +11,13 @@ Arquivos:
 - icon-512-maskable.png
 - manifest.webmanifest
 
-Hospede TODOS os arquivos na mesma pasta pública.
+Os ícones utilizam a identidade visual oficial MODZUNO, com Android verde neon.
 
-Depois, no XML do Blogger, use:
-<link rel="manifest" href="URL_PUBLICA/manifest.webmanifest"/>
+Manifesto do aplicativo:
+https://patricio9992.github.io/customdroid-pwa/manifest.webmanifest
 
-Exemplo:
-<link rel="manifest" href="https://SEU-USUARIO.github.io/customdroid-pwa/manifest.webmanifest"/>
+Nome do aplicativo: MODZUNO
+Nome curto: MODZUNO
+Idioma: Português (Brasil)
 
-ATENÇÃO:
-O manifesto está pronto para abrir:
-https://www.customdroidbr.com/
-
-A URL do manifesto só poderá ser finalizada depois que você souber o endereço público
-onde estes arquivos foram hospedados.
+Este repositório hospeda os recursos necessários para a instalação do MODZUNO como aplicativo web (PWA).
